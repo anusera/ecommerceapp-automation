@@ -26,7 +26,7 @@ public class Base {
 	    @AfterMethod
 	    public void tearDown() {
 
-	        driver.quit();
+	        driver.quit();// Close the browser after each test
 	    }
 
 
