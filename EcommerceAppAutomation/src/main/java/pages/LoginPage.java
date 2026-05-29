@@ -1,7 +1,7 @@
 package pages;
 
 public class LoginPage {
-	public void makelogin() {
+	public void makelogins() {
 		System.out.println("Login");
 	}	
 	public void addToCart() {
